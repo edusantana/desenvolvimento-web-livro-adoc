@@ -1,0 +1,22 @@
+= Introdução à Computação
+Eduardo de Santana Medeiros Alexandre
+:doctype: book
+:lang: pt-BR
+:keywords: WEB, Python, HTML
+:ascii-ids:
+:gitrepo: https://github.com/edusantana/introducao-a-computacao-livro
+:resposta: image:images/icons/resposta.png[]
+:solucao: image:images/icons/solucao.png[]
+
+:source-highlighter: rouge
+:icons: font
+
+
+include::python.adoc[]
+
+
+Available now at icon:amazon[].
+
+Tbm Available now at icon:amazon[set=pf].
+
+icon:android[size=5em]
